@@ -1,0 +1,6 @@
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\bin\Debug\deneme6.exe.config
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\bin\Debug\deneme6.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\bin\Debug\deneme6.pdb
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\obj\Debug\deneme6.csprojResolveAssemblyReference.cache
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\obj\Debug\deneme6.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme6\obj\Debug\deneme6.pdb
